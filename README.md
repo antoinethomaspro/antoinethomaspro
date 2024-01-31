@@ -11,7 +11,7 @@ Even though I've taken a break from playing video games, I still stay abreast of
 
 ## 🌱 I’m currently learning
 
-- [ShaderToy](https://www.shadertoy.com). ShaderToy has helped me get a little familiar with glsl, and I feel like I just stepped into a whole new world.
+- [ShaderToy](https://www.shadertoy.com) ShaderToy has helped me get a little familiar with glsl, and I feel like I just stepped into a whole new world.
 
 ## ⚡ Fun facts
 
