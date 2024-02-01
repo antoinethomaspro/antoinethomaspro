@@ -5,7 +5,7 @@ Even though I've taken a break from playing video games, I still stay abreast of
 
 ## 🔭 Recent projects
 
-- [renderer](https://github.com/antoinethomaspro/Simple-Renderer) Been adding new features to my terminal pomodoro timer including a macOS menu bar extension.
+- [renderer](https://github.com/antoinethomaspro/Simple-Renderer) Simple renderer where the initial goal was to see how multipass works with Vulkan (using dynamic rendering feature). One pass for post processing for now.
 - My master's thesis internship was about using hardware accelerated ray tracing to visualize unstructured volumetric data.  
 
 
