@@ -5,7 +5,7 @@ Even though I've taken a break from playing video games, I still stay abreast of
 
 ## 🔭 Recent projects
 
-- [Renderer](https://github.com/antoinethomaspro/Simple-Renderer) Simple renderer where the initial goal was to see how multipass works with Vulkan (using dynamic rendering feature). One pass for post processing for now.
+- [Renderer](https://github.com/antoinethomaspro/vk-gltf) Simple renderer where the initial goal was to see how to render a node based scene with GLTF.
 - My master's thesis internship was about using hardware accelerated ray tracing to visualize unstructured volumetric data.  
 
 
